@@ -1,6 +1,6 @@
 ## screenshots
 
-![screenshot](screenshot.png)
+![screenshot](images/screenshot.png)
 
 ## what software is used
 
@@ -18,6 +18,8 @@
 - #a8dadc (light blue)
 - #457b9d (mid blue)
 - #1d3557 (dark blue)
+
+![colors](images/colors.png)
 
 ## what font is used
 
