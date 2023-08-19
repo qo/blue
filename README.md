@@ -1,7 +1,3 @@
-## what's this
-
-dotfiles and instructions for making void linux look cute
-
 ## screenshots
 
 ![screenshot](screenshot.png)
@@ -23,16 +19,16 @@ otherwise - no
 
 ## what colors are used
 
-#e63946 (red)
-#f1faee (white)
-#a8dadc (light blue)
-#457b9d (mid blue)
-#1d3557 (dark blue)
+- #e63946 (red)
+- #f1faee (white)
+- #a8dadc (light blue)
+- #457b9d (mid blue)
+- #1d3557 (dark blue)
 
 ## what font is used
 
 space mono
 
-## instructions (incomplete)
+## guidelines (incomplete)
 
 nothing here yet
