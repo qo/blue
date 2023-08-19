@@ -2,9 +2,9 @@
 
 dotfiles and instructions for making void linux look cute
 
-## screenshots (incomplete)
+## screenshots
 
-nothing here yet
+![screenshot](screenshot.png)
 
 ## is it usable as a daily driver
 
