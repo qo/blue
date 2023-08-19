@@ -4,12 +4,12 @@
 
 ## what software is used
 
-- void linux
-- sowm
-- st
-- nvim
-- lynx
-- feh
+- [void linux](https://voidlinux.org/)
+- [sowm](https://github.com/dylanaraps/sowm/)
+- [st](https://st.suckless.org/)
+- [nvim](https://github.com/neovim/neovim/)
+- [lynx](https://lynx.invisible-island.net/)
+- [feh](https://feh.finalrewind.org/)
 
 ## what colors are used
 
@@ -21,11 +21,17 @@
 
 ## what font is used
 
-space mono
+[space mono](https://github.com/googlefonts/spacemono)
 
 ## guidelines (incomplete)
 
 nothing here yet
+
+## some other tools i also use on this system
+
+- [gh](https://cli.github.com/)
+- [go](https://go.dev/)
+- [keepassxc-cli](https://keepassxc.org/)
 
 ## kudos
 
