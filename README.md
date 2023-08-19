@@ -1,8 +1,8 @@
-## screenshots
+### screenshots
 
 ![screenshot](images/screenshot.png)
 
-## what software is used
+### what software is used
 
 - [void linux](https://voidlinux.org/)
 - [sowm](https://github.com/dylanaraps/sowm/)
@@ -11,7 +11,7 @@
 - [lynx](https://lynx.invisible-island.net/)
 - [feh](https://feh.finalrewind.org/)
 
-## what colors are used
+### what colors are used
 
 - #e63946 (red)
 - #f1faee (white)
@@ -21,21 +21,21 @@
 
 ![colors](images/colors.png)
 
-## what font is used
+### what font is used
 
 [space mono](https://github.com/googlefonts/spacemono)
 
-## guidelines (incomplete)
+### guidelines (incomplete)
 
 nothing here yet
 
-## some other tools i also use on this system
+### some other tools i also use on this system
 
 - [gh](https://cli.github.com/)
 - [go](https://go.dev/)
 - [keepassxc-cli](https://keepassxc.org/)
 
-## kudos
+### kudos
 
 [u/Dylan112](https://www.reddit.com/r/unixporn/comments/hzxe3i/sowm_oo) - inspo
 
