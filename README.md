@@ -2,12 +2,6 @@
 
 ![screenshot](screenshot.png)
 
-## is it usable as a daily driver
-
-if you only use cli apps - yes
-
-otherwise - no
-
 ## what software is used
 
 - void linux
@@ -32,3 +26,8 @@ space mono
 ## guidelines (incomplete)
 
 nothing here yet
+
+## kudos
+
+[u/Dylan112](https://www.reddit.com/r/unixporn/comments/hzxe3i/sowm_oo) - inspo
+[coolors.co](https://coolors.co/palette/e63946-f1faee-a8dadc-457b9d-1d3557) - cool color palettes
