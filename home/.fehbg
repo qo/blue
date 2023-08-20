@@ -1,2 +1,2 @@
 #!/bin/sh
-feh --no-fehbg --bg-scale 'YOUR_PATH_TO_WALLPAPER' 
+feh --no-fehbg --bg-scale '/home/YOUR_NAME/pictures/wallpaper.png' 

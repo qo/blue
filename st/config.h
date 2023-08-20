@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Space Mono NerdFont:pixelsize=20:antialias=true:autohint=true";
+static char *font = "Space Mono:style=Bold:pixelsize=20:antialias=true:autohint=true";
 static int borderpx = 50;
 
 /*
@@ -123,10 +123,10 @@ static const char *colorname[] = {
  * Default colors (colorname index)
  * foreground, background, cursor, reverse cursor
  */
-unsigned int defaultfg = 7;
-unsigned int defaultbg = 0;
-unsigned int defaultcs = 7;
-static unsigned int defaultrcs = 0;
+unsigned int defaultfg = 0;
+unsigned int defaultbg = 7;
+unsigned int defaultcs = 0;
+static unsigned int defaultrcs = 7;
 
 /*
  * Default shape of cursor
