@@ -43,7 +43,7 @@ use network source during installation
 
 `sudo xbps-install xorg libX11-devel libXft-devel ncurses-devel openssl-devel gcc make neovim wget lynx feh`
 
-#### copy dotfiles to be place at ~
+#### copy dotfiles that should be placed at ~
 
 `cp -a blue/home/. ~`
 
@@ -95,11 +95,11 @@ use network source during installation
 
 #### open terminal
 
-press win+enter to open your terminal
+press `win+enter` to open your terminal
 
 #### move & resize your windows
 
-use win+lmb & win+rmb
+use `win+lmb` & `win+rmb`
 
 #### keep it going
 
